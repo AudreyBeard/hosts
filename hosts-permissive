@@ -78867,7 +78867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dotmetrics.net
 0.0.0.0 ev.kck.st
 0.0.0.0 ezodn.com
-0.0.0.0 fast.appcues.com
+#0.0.0.0 fast.appcues.com  # needed for Barbri.com
 0.0.0.0 gc.zgo.at
 0.0.0.0 geo-eu.snigelweb.com
 0.0.0.0 geo-us.snigelweb.com
